@@ -4,3 +4,9 @@ Summary: Developed and executed robust business company network infrastructure u
 
 
 Tools: Cisco PT, Networking fundamentals
+
+
+Cisco Packet Tracer must be installed to open the project
+
+
+Project Report provide further information about the project
