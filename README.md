@@ -1,4 +1,4 @@
-# Company Network Development
+# Company Network
 
 ## Summary
 This project involved the development and execution of a robust network infrastructure for a business with two sites (A & B), spanning four buildings and multiple departments. The project was executed using Cisco Packet Tracer, where routers, switches, and network security protocols were configured to establish efficient communication and data transfer across the network.
