@@ -78,7 +78,7 @@ An additional router was added to enhance connectivity among the buildings. Belo
 
 ![Final Topology](https://github.com/user-attachments/assets/a6fef4ee-3867-41e1-8b60-1fdcef62a8b8)
 
-[Topology-Preview](<[https://github.com/user-attachments/assets/a6fef4ee-3867-41e1-8b60-1fdcef62a8b8]>)
+[Topology-Preview](<https://github.com/user-attachments/assets/a6fef4ee-3867-41e1-8b60-1fdcef62a8b8>)
 
 ### Reflection & Conclusion
 This project enabled the application of theoretical networking concepts to a practical scenario, enhancing my understanding of networking principles. The final topology reflects a successful network design implementation, providing a solid foundation for future network management endeavors. However, the network security aspects did not fully meet the required standards in terms of firewall configurations, indicating an area for improvement in future projects.
